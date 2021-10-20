@@ -10,6 +10,7 @@ Subprog ENCODE_PDF(PDFPATH, PDF64)
 Value Char PDFPATH
 Variable Clbfile PDF64
 
+
 #Variable slocales
 Local Integer LENGTH
 Local Blbfile PDF_BLB(10)
